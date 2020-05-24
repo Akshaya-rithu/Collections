@@ -20,6 +20,7 @@ public class Add8 {
 		li.add(li.lastIndexOf(10),100);
 		System.out.println("After adding in the last index 10");
 		System.out.println(li);
+		System.out.println("Clonning done ");
 		}
 
 }
